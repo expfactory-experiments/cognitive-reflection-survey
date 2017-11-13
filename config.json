@@ -1,0 +1,18 @@
+{
+    "name": "Cognitive Reflection Task Survey",
+    "template":"survey",
+    "exp_id": "cognitive-reflection-survey",
+    "cognitive_atlas_task_id": "trm_56675359b663a",
+    "contributors": [
+             "Ian Eisenberg",
+             "Zeynep Enkavi",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time": 5,
+    "reference": ["http://www.tandfonline.com/doi/pdf/10.1080/13546783.2013.844729",
+                  "http://onlinelibrary.wiley.com/doi/10.1002/bdm.1883/epdf"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
