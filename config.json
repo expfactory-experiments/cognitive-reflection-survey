@@ -2,6 +2,7 @@
     "name": "Cognitive Reflection Task Survey",
     "template":"survey",
     "exp_id": "cognitive-reflection-survey",
+    "url": "https://github.com/expfactory-experiments/cognitive-reflection-survey",
     "cognitive_atlas_task_id": "trm_56675359b663a",
     "contributors": [
              "Ian Eisenberg",
